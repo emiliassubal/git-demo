@@ -1,6 +1,9 @@
 hello lucy hreatfilia 22222222222222222
 hello lucy hreatfilia 33333333333333333
+<<<<<<< HEAD
 hello lucy hreatfilia master test
+=======
+>>>>>>> hot-fix
 hello lucy hreatfilia
 hello lucy hreatfilia
 hello lucy hreatfilia
